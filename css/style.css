@@ -1,0 +1,112 @@
+@font-face{
+  font-family: "ancient";
+  src : url("../font/Ancient Medium.ttf");
+}
+/*                             #
+ #####    ##    ####  ######  ##
+ #    #  #  #  #    # #      # #
+ #    # #    # #      #####    #
+ #####  ###### #  ### #        #
+ #      #    # #    # #        #
+ #      #    #  ####  ###### #####*/
+ *{
+   color: white;
+   font-family: sans-serif;
+ }
+#body1{
+  background-image: url(../img/cimetiére1.jpg);
+  background-size: cover;
+}
+#bouton{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: 5px solid purple;
+}
+#spannom{
+  font-family: ancient;
+  color: rgb(0, 255, 11);
+  font-size: 30px;
+}
+p{
+  font-size: 20px;
+}
+/*                              #####
+ #####    ##    ####  ###### #     #
+ #    #  #  #  #    # #            #
+ #    # #    # #      #####   #####
+ #####  ###### #  ### #      #
+ #      #    # #    # #      #
+ #      #    #  ####  ###### #######*/
+
+
+#body2{
+  background-image: url(../img/ValleeLune.jpg);
+}
+#click{
+  width: 200px;
+  height:200px;
+  background-color: white;
+  border: 5px lightblue;
+}
+#spanrenom{
+  font-family: ancient;
+  color: rgb(0, 255, 11);
+  font-size: 30px;
+}
+#spancause{
+  font-family: ancient;
+  color: rgb(0, 255, 11);
+  font-size: 30px;
+}
+/*                            #####
+ #####    ##    ####  ###### #     #
+ #    #  #  #  #    # #            #
+ #    # #    # #      #####   #####
+ #####  ###### #  ### #            #
+ #      #    # #    # #      #     #
+ #      #    #  ####  ######  #####*/
+
+ #body3{
+   background-image: url(../img/horloge.jpg);
+ }
+ #spanjob{
+   font-family: ancient;
+   color:rgb(0, 255, 11);
+   font-size: 30px;
+ }
+/*
+#####    ##    ####  ###### #    #
+#    #  #  #  #    # #      #    #
+#    # #    # #      #####  #    #
+#####  ###### #  ### #      #######
+#      #    # #    # #           #
+#      #    #  ####  ######      #*/
+#body4{
+  background-image: url(../img/route.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#spanoublie{
+  font-family: ancient;
+  color: rgb(0, 255, 11);
+  font-size: 30px;
+}
+/*                           #######
+ #####    ##    ####  ###### #
+ #    #  #  #  #    # #      #
+ #    # #    # #      #####  ######
+ #####  ###### #  ### #            #
+ #      #    # #    # #      #     #
+ #      #    #  ####  ######  #####*/
+ #body5{
+   background-image: url(../img/kennyparadis.jpg);
+   background-size: 100% 700px;
+   /*background-size: cover;*/
+   background-repeat: no-repeat;
+ }
+ .Page5{
+   color: black;
+   font-family: ancient;
+   font-size: 40px;
+ }
